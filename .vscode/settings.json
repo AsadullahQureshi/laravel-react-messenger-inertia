@@ -1,0 +1,40 @@
+{
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+  // PHP validation
+  "php.validate.enable": true,
+  "php.validate.executablePath": "/usr/bin/php",
+
+  // Intelephense (PHP insights)
+  "intelephense.files.maxSize": 5000000,
+  "intelephense.environment.phpVersion": "8.1.0",
+
+  // React/JS
+  "javascript.validate.enable": false,
+  "typescript.validate.enable": false,
+  "eslint.alwaysShowStatus": true,
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ],
+
+  // Blades
+  "[blade]": {
+    "editor.defaultFormatter": "onecentlin.laravel-blade"
+  },
+
+  // 🎨 Theme
+  "workbench.colorTheme": "Night Owl",
+
+  // 🏷 Icons
+  "workbench.iconTheme": "vscode-icons",
+
+  // File cleanup
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true
+}

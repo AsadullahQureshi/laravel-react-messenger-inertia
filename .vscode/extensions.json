@@ -1,0 +1,23 @@
+{
+    "recommendations": [
+        // 🐘 Laravel & PHP
+        "laravel.vscode-laravel",
+        "bmewburn.vscode-intelephense-client",
+        "onecentlin.laravel-blade",
+        "ryannaddy.laravel-artisan",
+        "mehedidracula.php-namespace-resolver",
+
+        // ✨ Formatting & Code Quality
+        "esbenp.prettier-vscode",
+        "dbaeumer.vscode-eslint",
+        "editorconfig.editorconfig",
+        "streetsidesoftware.code-spell-checker",
+
+        // 🧠 Git
+
+        // 🧪 React & JS/TS
+        "ms-vscode.js-debug",
+        "dsznajder.es7-react-js-snippets",
+        "xabikos.ReactSnippets"
+    ]
+}
