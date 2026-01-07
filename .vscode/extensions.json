@@ -1,6 +1,7 @@
 {
     "recommendations": [
         // 🐘 Laravel & PHP
+        "hakcorp.php-awesome-snippets",
         "laravel.vscode-laravel",
         "bmewburn.vscode-intelephense-client",
         "onecentlin.laravel-blade",
@@ -18,6 +19,7 @@
         // 🧪 React & JS/TS
         "ms-vscode.js-debug",
         "dsznajder.es7-react-js-snippets",
+        "xabikos.reactsnippets",
         "xabikos.ReactSnippets"
     ]
 }
